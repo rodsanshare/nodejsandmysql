@@ -1,0 +1,26 @@
+{
+  "name": "nodejsandmysql",
+  "version": "1.0.0",
+  "description": "From W3Schools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodsanshare/nodejsandmysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodsanshare/nodejsandmysql/issues"
+  },
+  "homepage": "https://github.com/rodsanshare/nodejsandmysql#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  }
+}
